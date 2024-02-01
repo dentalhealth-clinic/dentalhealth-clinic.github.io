@@ -1,0 +1,28 @@
+---
+navigation:
+
+- title: Home
+  link: /
+
+- title: About
+  link: /about/
+
+- title: Services
+  link: /service/
+  
+- title: Products
+  link: /prductlist/
+
+services:
+
+- title: Title A
+  imgUrl: https://t4.ftcdn.net/jpg/01/77/29/77/240_F_177297734_b1tghhUiRWIyXdg1cqrrrmUen6NIOzlq.jpg
+  buttom: Exlore
+  description: Description A
+  pageUrl: /TitleA/
+
+- title: Title B
+  imgUrl: https://t4.ftcdn.net/jpg/05/24/87/01/240_F_524870155_pRYG2Ac6igOhmXQEdCVRYGWSkeHTaaYj.jpg
+  buttom: Exlore
+  description: Description B
+  pageUrl: /titleb/
