@@ -1,0 +1,47 @@
+{
+    "servicesList": [
+      {
+        "title": "Teeth Whitening Services",
+        "moreInfo": "moreInfo",
+        "image": "path/to/teeth_whitening.jpg",
+        "unique Key": "Teeth-Whitening-Services"
+      },
+      {
+        "title": "Dental Implants",
+        "moreInfo": "moreInfo",
+        "image": "path/to/dental_implants.jpg",
+        "unique Key": "Dental-Implants"
+      },
+      {
+        "title": "Orthodontic Treatment",
+        "moreInfo": "moreInfo",
+        "image": "path/to/orthodontics.jpg"
+      },
+      {
+        "title": "Dental Check-ups",
+        "moreInfo": "moreInfo",
+        "image": "path/to/checkup.jpg"
+      },
+      {
+        "title": "Root Canal Therapy",
+        "moreInfo": "moreInfo",
+        "image": "path/to/root_canal.jpg"
+      },
+      {
+        "title": "Cosmetic Dentistry",
+        "moreInfo": "moreInfo",
+        "image": "path/to/cosmetic_dentistry.jpg"
+      }
+    ],
+    "servicesObj":{
+
+      "Teeth-Whitening-Services":{
+
+      },
+      "Dental-Implants":{
+        
+      }
+
+    }
+  }
+  
